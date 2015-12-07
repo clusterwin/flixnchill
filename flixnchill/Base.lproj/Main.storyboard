@@ -484,6 +484,12 @@
                                     <outletCollection property="gestureRecognizers" destination="1Nl-BI-lV9" appends="YES" id="udC-bn-bvG"/>
                                 </connections>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Matches" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SCy-3L-5i1">
+                                <rect key="frame" x="23" y="185" width="66" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <animations/>
                         <color key="backgroundColor" red="0.71764707565307617" green="0.058823533356189728" blue="0.090196080505847931" alpha="1" colorSpace="deviceRGB"/>
